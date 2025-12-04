@@ -73,7 +73,7 @@ Geographical and distance-based insights:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 * **Power BI Desktop** (Visualization & Reporting)
 * **Power Query** (ETL & Data Cleaning)
 * **DAX Measures** (Complex Calculations)
